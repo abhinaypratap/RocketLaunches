@@ -4,9 +4,18 @@
 - Frameworks
     - Foundation
     - SwiftUI
+    - CoreData
+    - XCTest
 - Target: iOS 15.4+
 - Supported Destinations: iPhone
+- Xcode: 14.1
 - Bundle Identifier: com.abhinaypratap.RocketLaunches
 - Source Control: Git
 - Dependencies:
     - SwiftLint
+- Networking
+- CoreData
+- JSON
+- Modern Concurrency with async/await
+- Unit Test
+- UI Test
